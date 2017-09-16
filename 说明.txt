@@ -1,0 +1,13 @@
+首页 index.html
+公司简介 company_profile.html
+核心团队 core_team.html
+公司荣誉 company _honor.html
+业务内容 business_tine.html
+服务优势 service_adv.html
+合作伙伴 cooperative_partner.html
+新闻中心 news.html
+员工之家 staff_home.html
+人才招聘 recruit.html
+人才招聘指定地点 recruit_list.html
+联系我们 contant.html
+
